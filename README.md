@@ -13,8 +13,8 @@ background-image: url("data:image/svg+xml,%3Csvg width='12' height='16' viewBox=
 	
 	<h1 style="color:#B4B8AB; font-family: Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', 'serif'">Mental Health Aids</h1>
 	
-<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="EEF0EB">
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="EEF0EB">
+  <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd" />
 </svg>
 
 	<p style="color:#F4F9E9; font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif'"> Unfortunately many students suffer from anxiety, adhd, and depression. While relaxing and listening to the rain may ease your troubles temporarily, mental health aids are always available for long-term care. Especially during a pandemic, getting help shouldn't be a fear. Below I have provided links:
