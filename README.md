@@ -18,7 +18,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 	<h5><a href="https://www.anxietycanada.com/?gclid=CjwKCAjwhMmEBhBwEiwAXwFoEZJbSf3Vi9NcxSskMwYlIJyaBZfXYxJXKB2pQtaefiONrn7sFr7nWxoCAh8QAvD_BwE" style="color:#B4B8AB"> Anxiety Canada </a></h5>
 	<h5><a href="https://caddac.ca/resources/resource-map/?gclid=CjwKCAjwhMmEBhBwEiwAXwFoEUdzGeqj7PVoUZ3DRKrHABzelPz8Z0CMcB2XyW92dp8u9ku01Q-2gBoCVfQQAvD_BwE" style="color:#B4B8AB">CADDAC [ADHD Services]</a></h5>
-	<h5><a href="https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/depression" style="color:#B4B8AB"><svg viewbox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">CAMH</a></h5>
+	<h5><a href="https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/depression" style="color:#B4B8AB">CAMH</a></h5>
 	
 	</body>
 </html>
