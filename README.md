@@ -16,48 +16,9 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	<p style="color:#F4F9E9; font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif'"> Unfortunately many students suffer from anxiety, adhd, and depression. While relaxing and listening to the rain may ease your troubles temporarily, mental health aids are always available for long-term care. Especially during a pandemic, getting help shouldn't be a fear. Below I have provided links:
 	</p>
 
-	<h5><a href="https://www.anxietycanada.com/?gclid=CjwKCAjwhMmEBhBwEiwAXwFoEZJbSf3Vi9NcxSskMwYlIJyaBZfXYxJXKB2pQtaefiONrn7sFr7nWxoCAh8QAvD_BwE" style="color:#B4B8AB"> <svg viewbox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><path d="
-                M 0, 8.5
-                C 0, 4.845000000000001 4.845000000000001, 0 8.5, 0
-                S 17, 4.845000000000001 17, 8.5
-                    12.155, 17 8.5, 17
-                    0, 12.155 0, 8.5
-            " fill="#EEF0EB" transform="rotate(
-                -24,
-                100,
-                100
-            ) translate(
-                91.5
-                91.5
-            )"></path></svg> </a></h5>
-	<h5><a href="https://caddac.ca/resources/resource-map/?gclid=CjwKCAjwhMmEBhBwEiwAXwFoEUdzGeqj7PVoUZ3DRKrHABzelPz8Z0CMcB2XyW92dp8u9ku01Q-2gBoCVfQQAvD_BwE" style="color:#B4B8AB"><svg viewbox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><path d="
-                M 0, 10
-                C 0, 6.6 6.6, 0 10, 0
-                S 20, 6.6 20, 10
-                    13.4, 20 10, 20
-                    0, 13.4 0, 10
-            " fill="#B4B8AB" transform="rotate(
-                21,
-                100,
-                100
-            ) translate(
-                90
-                90
-            )"></path></svg></a></h5>
-	<h5><a href="https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/depression" style="color:#B4B8AB"><svg viewbox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><path d="
-                M 0, 10.5
-                C 0, 6.51 6.51, 0 10.5, 0
-                S 21, 6.51 21, 10.5
-                    14.49, 21 10.5, 21
-                    0, 14.49 0, 10.5
-            " fill="#F4F9E9" transform="rotate(
-                -26,
-                100,
-                100
-            ) translate(
-                89.5
-                89.5
-            )"></path></svg></a></h5>
+	<h5><a href="https://www.anxietycanada.com/?gclid=CjwKCAjwhMmEBhBwEiwAXwFoEZJbSf3Vi9NcxSskMwYlIJyaBZfXYxJXKB2pQtaefiONrn7sFr7nWxoCAh8QAvD_BwE" style="color:#B4B8AB"> Anxiety Canada </a></h5>
+	<h5><a href="https://caddac.ca/resources/resource-map/?gclid=CjwKCAjwhMmEBhBwEiwAXwFoEUdzGeqj7PVoUZ3DRKrHABzelPz8Z0CMcB2XyW92dp8u9ku01Q-2gBoCVfQQAvD_BwE" style="color:#B4B8AB">CADDAC [ADHD Services]</a></h5>
+	<h5><a href="https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/depression" style="color:#B4B8AB"><svg viewbox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">CAMH</a></h5>
 	
 	</body>
 </html>
