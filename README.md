@@ -16,9 +16,48 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	<p style="color:#F4F9E9; font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif'"> Unfortunately many students suffer from anxiety, adhd, and depression. While relaxing and listening to the rain may ease your troubles temporarily, mental health aids are always available for long-term care. Especially during a pandemic, getting help shouldn't be a fear. Below I have provided links:
 	</p>
 
-	<h5><a href="https://www.anxietycanada.com/?gclid=CjwKCAjwhMmEBhBwEiwAXwFoEZJbSf3Vi9NcxSskMwYlIJyaBZfXYxJXKB2pQtaefiONrn7sFr7nWxoCAh8QAvD_BwE" style="color:#B4B8AB"> <!--?xml version="1.0" standalone="no"?-->              <svg id="sw-js-blob-svg" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" version="1.1">                    <defs>                         <linearGradient id="sw-gradient" x1="0" x2="1" y1="1" y2="0">                            <stop id="stop1" stop-color="rgba(238, 240, 235, 1)" offset="0%"></stop>                            <stop id="stop2" stop-color="rgba(180, 184, 171, 1)" offset="100%"></stop>                        </linearGradient>                    </defs>                <path fill="url(#sw-gradient)" d="M21.7,-25.9C26.8,-21.5,29,-13.5,31.9,-4.5C34.7,4.4,38.4,14.4,34.9,19.9C31.4,25.4,20.7,26.6,10.9,30.3C1.1,34,-7.9,40.3,-16.7,39.7C-25.4,39.2,-33.8,31.8,-37,23C-40.3,14.1,-38.3,3.9,-35.4,-5.2C-32.6,-14.3,-29,-22.3,-22.9,-26.6C-16.9,-30.9,-8.4,-31.6,-0.1,-31.5C8.2,-31.4,16.5,-30.4,21.7,-25.9Z" width="100%" height="100%" transform="translate(50 50)" stroke-width="0" style="transition: all 0.3s ease 0s;" stroke="url(#sw-gradient)"></path>              </svg></a></h5>
-	<h5><a href="https://caddac.ca/resources/resource-map/?gclid=CjwKCAjwhMmEBhBwEiwAXwFoEUdzGeqj7PVoUZ3DRKrHABzelPz8Z0CMcB2XyW92dp8u9ku01Q-2gBoCVfQQAvD_BwE" style="color:#B4B8AB">ADHD Canada</a></h5>
-	<h5><a href="https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/depression" style="color:#B4B8AB">CAMH</a></h5>
+	<h5><a href="https://www.anxietycanada.com/?gclid=CjwKCAjwhMmEBhBwEiwAXwFoEZJbSf3Vi9NcxSskMwYlIJyaBZfXYxJXKB2pQtaefiONrn7sFr7nWxoCAh8QAvD_BwE" style="color:#B4B8AB"> <svg viewbox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><path d="
+                M 0, 8.5
+                C 0, 4.845000000000001 4.845000000000001, 0 8.5, 0
+                S 17, 4.845000000000001 17, 8.5
+                    12.155, 17 8.5, 17
+                    0, 12.155 0, 8.5
+            " fill="#EEF0EB" transform="rotate(
+                -24,
+                100,
+                100
+            ) translate(
+                91.5
+                91.5
+            )"></path></svg> </a></h5>
+	<h5><a href="https://caddac.ca/resources/resource-map/?gclid=CjwKCAjwhMmEBhBwEiwAXwFoEUdzGeqj7PVoUZ3DRKrHABzelPz8Z0CMcB2XyW92dp8u9ku01Q-2gBoCVfQQAvD_BwE" style="color:#B4B8AB"><svg viewbox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><path d="
+                M 0, 10
+                C 0, 6.6 6.6, 0 10, 0
+                S 20, 6.6 20, 10
+                    13.4, 20 10, 20
+                    0, 13.4 0, 10
+            " fill="#B4B8AB" transform="rotate(
+                21,
+                100,
+                100
+            ) translate(
+                90
+                90
+            )"></path></svg></a></h5>
+	<h5><a href="https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/depression" style="color:#B4B8AB"><svg viewbox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><path d="
+                M 0, 10.5
+                C 0, 6.51 6.51, 0 10.5, 0
+                S 21, 6.51 21, 10.5
+                    14.49, 21 10.5, 21
+                    0, 14.49 0, 10.5
+            " fill="#F4F9E9" transform="rotate(
+                -26,
+                100,
+                100
+            ) translate(
+                89.5
+                89.5
+            )"></path></svg></a></h5>
 	
 	</body>
 </html>
